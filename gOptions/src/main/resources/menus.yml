@@ -1,0 +1,33 @@
+menus:
+  main_menu:
+    title: "&cOptions"
+    size: 54
+    items:
+      close:
+        name: "&4&oClose menu"
+        material: BARRIER
+        slot: 49
+        lore:
+          - '&8&m----------------------------'
+          - '&f'
+          - '&fClick here to close the menu'
+          - '&f'
+          - '&8&m----------------------------'
+      visibility:
+        position: 15
+        visibility_true:
+          name: "&fPlayer visibility &aVISIBLE"
+          lore:
+            - '&8&m----------------------------'
+            - '&f'
+            - '&fClick for hide the players!'
+            - ''
+            - '&8&m----------------------------'
+        visibility_false:
+          name: "&fPlayer visibility &cINVISIBLE"
+          lore:
+            - '&8&m----------------------------'
+            - '&f'
+            - '&fClick for show the players!'
+            - ''
+            - '&8&m----------------------------'

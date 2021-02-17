@@ -1,0 +1,8 @@
+messages:
+  no_permission: "&8[&cgOptions&8] &7> &fYou don't have permission to execute this action!"
+  insuficient_arguments: "&8[&cgOptions&8] &7> &fIncorrect arguments!"
+  menus_messages:
+    open_menu_sound: "BLOCK_CHEST_OPEN"
+    visibility:
+      enabled: "&8[&cgOptions&8] &7> &fThe players are now visible!"
+      disabled: "&8[&cgOptions&8] &7> &fThe players are now invisible!"

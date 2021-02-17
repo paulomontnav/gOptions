@@ -1,0 +1,6 @@
+name: gOptions
+version: 1.0.0
+main: dev.paulitolna.plugin.goptions.Main
+api-version: 1.13
+author: PaulitoLNA_
+description: Basic plugin options for servers
